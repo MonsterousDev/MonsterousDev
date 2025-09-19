@@ -13,7 +13,6 @@ I bring over 10 years of experience delivering **real-world software solutions**
 - 🚀 Building performant, reliable systems
 - 🌐 Developing reusable and accessible UI components
 - 📊 Improving API efficiency and data flow in microservices
-- ☁️ Deploying cloud-native applications on AWS and Kubernetes
 - 🤝 Collaborating in Agile teams to deliver impactful, user-first features
 
 I take pride in writing **clean, maintainable code**, and I enjoy optimizing performance, automating deployments, and mentoring teammates.
