@@ -1,8 +1,5 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-  <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Software Engineer at Amazon
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="40" height="40"/>
-</h3>
+  
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -11,7 +8,7 @@
 
 ## 🏆 About Me
 
-I bring over 10 years of experience delivering **real-world software solutions** for companies like **Amazon**, **Instacart**, and **IBM**. My work focuses on:
+I bring over 10 years of experience delivering **real-world software solutions**.
 
 - 🚀 Building performant, reliable systems
 - 🌐 Developing reusable and accessible UI components
@@ -27,7 +24,7 @@ I take pride in writing **clean, maintainable code**, and I enjoy optimizing per
 
 **MEng in Computer Science**  
 University of Cambridge, London, UK  
-*2010 – 2015*
+*2011 – 2015*
 
 ---
 
