@@ -151,11 +151,11 @@ University of Cambridge, London, UK
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/tony-montoya-dev/" target="_blank">
-  <img align="center" alt="Tony montoya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/gabriel-c-05779437b/" target="_blank">
+  <img align="center" alt="Gabriel Cerda | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:tony.awesome.dev@gmail.com" >
-  <img align="center" alt="Tony Montoya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:noblesseoblige646@gmail.com" >
+  <img align="center" alt="Gabriel Cerda | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
