@@ -138,20 +138,5 @@ I take pride in writing **clean, maintainable code**, and I enjoy optimizing per
 
 
 
----
-<div align="center">
-  <h3><b>Let's get in touch! </b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/gabriel-c-05779437b/" target="_blank">
-  <img align="center" alt="Gabriel Cerda | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:noblesseoblige646@gmail.com" >
-  <img align="center" alt="Gabriel Cerda | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
-
-
----
 
 Thanks for stopping by! 🚀
