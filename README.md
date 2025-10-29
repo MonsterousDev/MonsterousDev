@@ -19,14 +19,6 @@ I take pride in writing **clean, maintainable code**, and I enjoy optimizing per
 
 ---
 
-## 🎓 Education
-
-**MEng in Computer Science**  
-University of Cambridge, London, UK  
-*2011 – 2015*
-
----
-
 <p align="left">
     <strong>Programming Languages:</strong>
     <br />
